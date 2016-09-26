@@ -6,6 +6,7 @@
     "build": "make build"
   },
   "devDependencies": {
-    "requirejs": "^2.3.2"
+    "requirejs": "^2.3.2",
+    "node-static": "^0.7.8"
   }
 }

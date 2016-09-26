@@ -6,3 +6,6 @@ build-re:
 
 convert-modules:
 	node node_modules/.bin/r.js -convert src static
+
+serve:
+	./node_modules/node-static/bin/cli.js
