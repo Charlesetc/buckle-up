@@ -1,0 +1,7 @@
+*.cmi
+*.cmj
+*.js
+node_modules/
+*.swp
+static/
+npm-debug.log*

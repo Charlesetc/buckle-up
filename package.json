@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bs-platform": "1.0.1"
+  },
+  "scripts": {
+    "build": "make build"
+  },
+  "devDependencies": {
+    "requirejs": "^2.3.2"
+  }
+}
